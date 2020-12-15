@@ -1,6 +1,6 @@
 <template>
     <div>
-        <label for="">Name</label>
+        <label for="">Name!</label>
         <input 
             type="text" 
             :value="value"
